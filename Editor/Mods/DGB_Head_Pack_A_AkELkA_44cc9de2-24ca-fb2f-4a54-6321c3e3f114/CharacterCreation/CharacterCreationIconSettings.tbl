@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="23f90ecc-ebb7-4d29-a48b-363edb454991" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Tets_1" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="0da40707-4d75-4408-b185-e38f9e5830f0" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="DragonbornJaw;DragonbornChin;DragonbornTop;Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="9fcd6597-da78-40ea-95a5-b914bed816e3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0daa3a61-af3d-46de-9422-353a5af6a6f4" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Tets_1" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="0da40707-4d75-4408-b185-e38f9e5830f0" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="DragonbornJaw;DragonbornChin;DragonbornTop;Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="fcb2308b-74e9-4f22-9a13-3613e837cf04" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

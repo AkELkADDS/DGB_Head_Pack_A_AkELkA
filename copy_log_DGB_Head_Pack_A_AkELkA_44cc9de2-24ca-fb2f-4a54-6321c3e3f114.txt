@@ -1,0 +1,694 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+   Thu 07/03/2025 15:42:09.85 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\thumbnail.PNG 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreation\CharacterCreationIconSettings.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114: 3 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreation\CharacterCreationIconSettings.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\0064c68c-8ae4-45c1-b867-b6d2e0f541a6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\00ead9df-1b72-454d-ae3f-f90ed17cfc9b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\099dd38e-d77a-4aa5-9a46-5b85ed28ced0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\103920bd-f6e3-4d5a-99d3-1bec371bc39e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\1296dd39-d8b1-44bc-a071-111e259200c1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\136e185d-062a-4567-a95c-65acd787bb7c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\1c3d8d7c-0aab-445b-ae89-526404ff8899.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\1cf55c67-3047-460c-891e-4165ee1fb934.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\1eed4e85-ded0-4e16-b83d-46100ce86653.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\20108af7-3fdc-47c3-ab12-809e2d142cdd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\206b6970-7b80-4e1c-aa4e-c71eff85bab9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\258ed6c6-2636-4644-ad4a-6fa745064489.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\3171fa23-b330-4218-babe-9e2d359503b8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\36eb4d34-e1df-4acf-a967-25f413de4ff1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\3a1c6125-6b5c-4ee2-b5c9-28984d552be6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\3c7b7cb7-bbf6-4cd7-b517-ef16a9727107.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\3ceb974c-fcd4-4407-bcc9-cb72af863e97.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\454c88b7-d303-4cb3-b6f9-0761c590096e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\4e218828-8bb0-4129-a4dd-513676fcb503.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\630dbdc7-d2ce-4ba4-8eaa-bdfb6a3f05b0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\6388f827-370c-4ed4-91b4-215603faa0bd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\64c61e25-bd97-45d4-8270-5d8531c148e6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\6887e6fc-d83e-40ce-92cc-ee1cd7e0b175.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\749ec66b-0bfc-4245-824f-d6b756fc7ab0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\7514e3ee-cf12-488d-85df-169d1bebd61d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\75973c27-7169-4811-82d3-6f824662faaf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\7e0b44a3-b328-436f-b34e-030ff9aec6b2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\89688c32-3e03-45af-aad7-a711ca60c2f6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\98f9bec5-dc3d-4304-86ef-e4300a60fc07.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\9cb0a896-5b00-4382-a79c-3db126e8144a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\a0fbcb4b-42d0-4bbd-b050-80f468896cf9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\a40f6d0a-252b-473f-af68-0ada510cbe68.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\ad3b6e29-aad4-4cd8-b8c7-f534a5b48a91.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\ae3f0783-2810-48a8-91f8-0525449a0649.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\b0a6dffc-0547-4f2b-93ec-104c7a0b4c52.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\c08d3d5e-cdf6-44e4-a61c-3ef44b3c8942.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\c3df3715-a07a-4e76-b191-8cead2c7575c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\c8590805-6b7e-4e5b-9110-76d6766c02b5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\d048cee5-3c85-419c-b4b2-f0707df8c118.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\db4fb708-8bed-4fe8-b7fa-0aa64edada90.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\e58df61e-6a03-4add-ba9a-414577249613.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\e6a0b220-6044-40cf-a18f-d32d3545febd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\f492d776-0ada-465c-9ea0-5b9042e71cd2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\f4d1ac53-ba25-45a5-95af-6b316f08e75e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\fbb0bfc5-ce9d-4bc9-8adf-8610fdfd0087.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\fbd57a64-fd0a-4c99-b70e-daaf7cbb6a10.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\fef8ceba-31c5-40f4-87cb-f85ba5d5d08a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MB.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MG.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FB.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FE.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MG.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FB.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FE.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MG.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FB.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FE.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FB.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FE.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MC.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_ME.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MF.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MG.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114: 144 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MG.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FB.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FE.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_ME.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MG.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114: 36 
+ 
+[LOG] Total files found across all folders: 189 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 to Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[DEBUG] Using destination: Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, July 3, 2025 3:42:14 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     701	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\meta.lsx100%  
+	    New File  		  378690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\thumbnail.PNG100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   370.4 k   370.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           379391000 Bytes/sec.
+   Speed :           21708.927 MegaBytes/min.
+   Ended : Thursday, July 3, 2025 3:42:14 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 to "Editor\Mods"\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[DEBUG] Using destination: Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, July 3, 2025 3:42:16 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  219622	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		    2031	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreation\CharacterCreationIconSettings.tbl100%  
+	    New File  		     942	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         7         7         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :   217.3 k   217.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           111297500 Bytes/sec.
+   Speed :            6368.494 MegaBytes/min.
+   Ended : Thursday, July 3, 2025 3:42:16 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 to Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[DEBUG] Using destination: Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, July 3, 2025 3:42:18 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   13229	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\meta.lsx100%  
+	    New File  		  378690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\GUI\metadata.lsf100%  
+	    New File  		   56071	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   438.6 k   438.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           224565500 Bytes/sec.
+   Speed :           12849.740 MegaBytes/min.
+   Ended : Thursday, July 3, 2025 3:42:18 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 to Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[DEBUG] Using destination: Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, July 3, 2025 3:42:19 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  148353	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    3164	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreation\CharacterCreationIconSettings.lsx100%  
+	    New File  		     860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\0064c68c-8ae4-45c1-b867-b6d2e0f541a6.lsf100%  
+	    New File  		    3297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\00ead9df-1b72-454d-ae3f-f90ed17cfc9b.lsf100%  
+	    New File  		    2561	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\099dd38e-d77a-4aa5-9a46-5b85ed28ced0.lsf100%  
+	    New File  		    2552	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\103920bd-f6e3-4d5a-99d3-1bec371bc39e.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\1296dd39-d8b1-44bc-a071-111e259200c1.lsf100%  
+	    New File  		    3297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\136e185d-062a-4567-a95c-65acd787bb7c.lsf100%  
+	    New File  		    2604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\1c3d8d7c-0aab-445b-ae89-526404ff8899.lsf100%  
+	    New File  		    2559	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\1cf55c67-3047-460c-891e-4165ee1fb934.lsf100%  
+	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\1eed4e85-ded0-4e16-b83d-46100ce86653.lsf100%  
+	    New File  		    3297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\20108af7-3fdc-47c3-ab12-809e2d142cdd.lsf100%  
+	    New File  		    3294	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\206b6970-7b80-4e1c-aa4e-c71eff85bab9.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\258ed6c6-2636-4644-ad4a-6fa745064489.lsf100%  
+	    New File  		    2599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\3171fa23-b330-4218-babe-9e2d359503b8.lsf100%  
+	    New File  		    2552	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\36eb4d34-e1df-4acf-a967-25f413de4ff1.lsf100%  
+	    New File  		    2561	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\3a1c6125-6b5c-4ee2-b5c9-28984d552be6.lsf100%  
+	    New File  		    3297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\3c7b7cb7-bbf6-4cd7-b517-ef16a9727107.lsf100%  
+	    New File  		    3297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\3ceb974c-fcd4-4407-bcc9-cb72af863e97.lsf100%  
+	    New File  		    2559	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\454c88b7-d303-4cb3-b6f9-0761c590096e.lsf100%  
+	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\4e218828-8bb0-4129-a4dd-513676fcb503.lsf100%  
+	    New File  		    2561	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\630dbdc7-d2ce-4ba4-8eaa-bdfb6a3f05b0.lsf100%  
+	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\6388f827-370c-4ed4-91b4-215603faa0bd.lsf100%  
+	    New File  		    3297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\64c61e25-bd97-45d4-8270-5d8531c148e6.lsf100%  
+	    New File  		    3297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\6887e6fc-d83e-40ce-92cc-ee1cd7e0b175.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\749ec66b-0bfc-4245-824f-d6b756fc7ab0.lsf100%  
+	    New File  		    2546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\7514e3ee-cf12-488d-85df-169d1bebd61d.lsf100%  
+	    New File  		    2599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\75973c27-7169-4811-82d3-6f824662faaf.lsf100%  
+	    New File  		    3304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\7e0b44a3-b328-436f-b34e-030ff9aec6b2.lsf100%  
+	    New File  		    2561	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\89688c32-3e03-45af-aad7-a711ca60c2f6.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\98f9bec5-dc3d-4304-86ef-e4300a60fc07.lsf100%  
+	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\9cb0a896-5b00-4382-a79c-3db126e8144a.lsf100%  
+	    New File  		    2561	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\a0fbcb4b-42d0-4bbd-b050-80f468896cf9.lsf100%  
+	    New File  		    3297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\a40f6d0a-252b-473f-af68-0ada510cbe68.lsf100%  
+	    New File  		    2560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\ad3b6e29-aad4-4cd8-b8c7-f534a5b48a91.lsf100%  
+	    New File  		    2554	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\ae3f0783-2810-48a8-91f8-0525449a0649.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\b0a6dffc-0547-4f2b-93ec-104c7a0b4c52.lsf100%  
+	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\c08d3d5e-cdf6-44e4-a61c-3ef44b3c8942.lsf100%  
+	    New File  		    2561	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\c3df3715-a07a-4e76-b191-8cead2c7575c.lsf100%  
+	    New File  		    2773	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\c8590805-6b7e-4e5b-9110-76d6766c02b5.lsf100%  
+	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\d048cee5-3c85-419c-b4b2-f0707df8c118.lsf100%  
+	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\db4fb708-8bed-4fe8-b7fa-0aa64edada90.lsf100%  
+	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\e58df61e-6a03-4add-ba9a-414577249613.lsf100%  
+	    New File  		    3297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\e6a0b220-6044-40cf-a18f-d32d3545febd.lsf100%  
+	    New File  		    2561	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\f492d776-0ada-465c-9ea0-5b9042e71cd2.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\f4d1ac53-ba25-45a5-95af-6b316f08e75e.lsf100%  
+	    New File  		    3297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\fbb0bfc5-ce9d-4bc9-8adf-8610fdfd0087.lsf100%  
+	    New File  		    3297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\fbd57a64-fd0a-4c99-b70e-daaf7cbb6a10.lsf100%  
+	    New File  		    2767	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Content\[PAK]_DGB_Head_Pack_A_AkELkA\fef8ceba-31c5-40f4-87cb-f85ba5d5d08a.lsf100%  
+	    New File  		  282012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MA.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MA.xml100%  
+	    New File  		  272504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MB.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MB.xml100%  
+	    New File  		  394336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MC.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MC.xml100%  
+	    New File  		  854108	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MD.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MD.xml100%  
+	    New File  		  603864	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_ME.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_ME.xml100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MF.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MF.xml100%  
+	    New File  		  341664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MG.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Crest\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_Top_MG.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K.GR2100%  
+	    New File  		     174	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FA.GR2100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FA.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FB.GR2100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FB.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FC.GR2100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FC.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FD.GR2100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FD.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FE.GR2100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_FE.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MA.GR2100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MA.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MC.GR2100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MC.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MD.GR2100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MD.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_ME.GR2100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_ME.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MF.GR2100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MF.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MG.GR2100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K_MG.xml100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_L.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_L.xml100%  
+	    New File  		   57324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FA.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FA.xml100%  
+	    New File  		   59672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FB.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FB.xml100%  
+	    New File  		   64176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FC.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FC.xml100%  
+	    New File  		   87900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FD.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FD.xml100%  
+	    New File  		   81432	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FE.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FE.xml100%  
+	    New File  		   57648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MA.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MA.xml100%  
+	    New File  		   93272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MC.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MC.xml100%  
+	    New File  		  116020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MD.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MD.xml100%  
+	    New File  		   63404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_ME.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_ME.xml100%  
+	    New File  		   63488	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MF.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MF.xml100%  
+	    New File  		   76236	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MG.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MG.xml100%  
+	    New File  		  336396	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FA.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FA.xml100%  
+	    New File  		  636596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FB.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FB.xml100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FC.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FC.xml100%  
+	    New File  		  478632	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FD.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FD.xml100%  
+	    New File  		  849860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FE.GR2100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FE.xml100%  
+	    New File  		  145204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FA.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FA.xml100%  
+	    New File  		   99316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FB.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FB.xml100%  
+	    New File  		  258244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FC.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FC.xml100%  
+	    New File  		  256372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FD.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FD.xml100%  
+	    New File  		  113012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FE.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FE.xml100%  
+	    New File  		  197076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MA.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MA.xml100%  
+	    New File  		  179364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MC.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MC.xml100%  
+	    New File  		  186380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MD.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MD.xml100%  
+	    New File  		  218548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_ME.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_ME.xml100%  
+	    New File  		  176000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MF.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MF.xml100%  
+	    New File  		  202388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MG.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MG.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        19        19         1         0         0         0
+   Files :       144       144         0         0         0         0
+   Bytes :   18.49 m   18.49 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           340170245 Bytes/sec.
+   Speed :           19464.697 MegaBytes/min.
+   Ended : Thursday, July 3, 2025 3:42:19 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 144 
+[DEBUG] Successfully copied files: 144 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114: 
+      Total files: 144 
+      Copied successfully: 144 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 to "Generated\Public"\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[DEBUG] Using destination: Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, July 3, 2025 3:42:21 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_K.GR2100%  
+	    New File  		  668808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Heads\Male\DGB_M_Head_K\DGB_M_NKD_Head_L.GR2100%  
+	    New File  		   57324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FA.GR2100%  
+	    New File  		   59672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FB.GR2100%  
+	    New File  		   64176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FC.GR2100%  
+	    New File  		   87900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FD.GR2100%  
+	    New File  		   81432	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_FE.GR2100%  
+	    New File  		   57648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MA.GR2100%  
+	    New File  		   93272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MC.GR2100%  
+	    New File  		  116020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MD.GR2100%  
+	    New File  		   63404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_ME.GR2100%  
+	    New File  		   63488	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MF.GR2100%  
+	    New File  		   76236	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Chin\DGB_M_NKD_Head_K_Chin_MG.GR2100%  
+	    New File  		  336396	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FA.GR2100%  
+	    New File  		  636596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FB.GR2100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FC.GR2100%  
+	    New File  		  478632	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FD.GR2100%  
+	    New File  		  849860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_FE.GR2100%  
+	    New File  		  282012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MA.GR2100%  
+	    New File  		  272504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MB.GR2100%  
+	    New File  		  394336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MC.GR2100%  
+	    New File  		  854108	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MD.GR2100%  
+	    New File  		  604032	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_ME.GR2100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MF.GR2100%  
+	    New File  		  341888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Crest\DGB_M_NKD_Head_K_Top_MG.GR2100%  
+	    New File  		  145204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FA.GR2100%  
+	    New File  		   99316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FB.GR2100%  
+	    New File  		  258244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FC.GR2100%  
+	    New File  		  256372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FD.GR2100%  
+	    New File  		  113012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_FE.GR2100%  
+	    New File  		  197076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MA.GR2100%  
+	    New File  		  179364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MC.GR2100%  
+	    New File  		  186380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MD.GR2100%  
+	    New File  		  218548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_ME.GR2100%  
+	    New File  		  176000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MF.GR2100%  
+	    New File  		  202388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114\DGB_Head_Pack_A_AkELkA\Male\DGB_M_Head_K\Jaw\DGB_M_NKD_Head_K_Jaw_MG.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        10        10         1         0         0         0
+   Files :        36        36         0         0         0         0
+   Bytes :   11.19 m   11.19 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           587086200 Bytes/sec.
+   Speed :           33593.341 MegaBytes/min.
+   Ended : Thursday, July 3, 2025 3:42:21 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 36 
+[DEBUG] Successfully copied files: 36 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114: 
+      Total files: 36 
+      Copied successfully: 36 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 144 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Head_Pack_A_AkELkA_44cc9de2-24ca-fb2f-4a54-6321c3e3f114 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 36 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 189 
+[SUMMARY] Total files successfully copied: 378 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
